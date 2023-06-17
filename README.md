@@ -6,5 +6,5 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-https://github.com/naranjansingh/grocery_store_login_signup_screen/assets/splash.jpg
+https://github.com/naranjansingh/grocery_store_login_signup_screen/assets/splash .jpg
 
