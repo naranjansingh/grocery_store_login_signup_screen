@@ -29,7 +29,7 @@ There are several objectives of the project. they're as follows:
 
 ![screenshort1](./assets/splash.png)
 ![screenshort2](./assets/splash.png)
-![screenshort3](./assets/output/p3.png)
+![screenshort3](assets/splash.png)
 ![screenshort4](./assets/output/p4.png)
 ![screenshort5](./assets/output/p5.png)
 ![screenshort6](./assets/output/p6.png)
