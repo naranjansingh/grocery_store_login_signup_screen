@@ -28,7 +28,7 @@ There are several objectives of the project. they're as follows:
 • To make the shopping system hassle-free and time-saving. <br />
 
 ![screenshort1](./assets/splash.png)
-![screenshort2](./assets/output/p2.png)
+![screenshort2](./assets/splash.png)
 ![screenshort3](./assets/output/p3.png)
 ![screenshort4](./assets/output/p4.png)
 ![screenshort5](./assets/output/p5.png)
